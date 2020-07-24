@@ -4,6 +4,9 @@ Simple web crawler in python
 
 ### How to use
 
+- first argument is the url
+- second argument is the max_depth
+
 ```
 ➜  simple-web-crawler git:(master) python3 app.py "https://www.saltycrane.com/blog/2007/12/how-to-pass-command-line-arguments-to/" 3
 1 => www.saltycrane.com
